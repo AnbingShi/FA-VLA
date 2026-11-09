@@ -2,7 +2,7 @@
 
 # FA-VLA
 
-### Transmission Line Fault Detection via Multi-Granularity Fault-Semantic Vision-Language Learning
+### Multi-Granularity Fault-Semantic Vision-Language Learning for Transmission Line Fault Detection in UAV Remote Sensing Imagery
 
 Official project page for **FA-VLA**, a multi-granularity fault-semantic vision-language learning framework for UAV-based transmission line fault detection.
 
@@ -84,7 +84,7 @@ Additional project information and resources are under preparation.
 
 ## 📄 Paper
 
-**Title:** Transmission Line Fault Detection via Multi-Granularity Fault-Semantic Vision-Language Learning
+**Title:** Multi-Granularity Fault-Semantic Vision-Language Learning for Transmission Line Fault Detection in UAV Remote Sensing Imagery
 
 Publication information will be updated when available.
 
